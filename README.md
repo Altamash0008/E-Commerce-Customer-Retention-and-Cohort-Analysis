@@ -9,9 +9,9 @@ The project transforms transaction data into actionable customer insights using 
 ## Tools & Technologies
 
 - **Google BigQuery :** SQL-based data analysis and transformation
-- **SQL -** customer metrics, RFM scoring, segmentation, and cohort analysis
-- **Power BI -** interactive dashboard and data visualization
-- **DAX -** KPI and business metric calculations
+- **SQL :** customer metrics, RFM scoring, segmentation, and cohort analysis
+- **Power BI :** interactive dashboard and data visualization
+- **DAX :** KPI and business metric calculations
 
 ## Analysis Performed
 - Revenue & Sales Analysis
