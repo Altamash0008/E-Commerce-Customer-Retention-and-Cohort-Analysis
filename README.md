@@ -39,16 +39,16 @@ The project transforms transaction data into actionable customer insights using 
 ## Business Recommendations
 
 1. **Protect High-Value Customers**
-     - *Champions generate a disproportionate share of revenue. Prioritize retention through personalized offers, loyalty benefits, cross-selling, and upselling.*
+   *Champions generate a disproportionate share of revenue. Prioritize retention through personalized offers, loyalty benefits, cross-selling, and upselling.*
 
 2. **Improve Second-Order Conversion**
-     - *With 1,623 one-time customers, strengthen the first-to-second purchase journey through post-purchase engagement, personalized recommendations, and targeted incentives.*
+   *With 1,623 one-time customers, strengthen the first-to-second purchase journey through post-purchase engagement, personalized recommendations, and targeted incentives.*
 
 3. **Reactivate At-Risk Customers**
-     - *Target the 1,920 At Risk and Hibernating customers with segmented win-back and reactivation campaigns based on recency and customer value.*
+   *Target the 1,920 At Risk and Hibernating customers with segmented win-back and reactivation campaigns based on recency and customer value.*
 
 4. **Increase Loyal Customer Value**
-     - *Use loyalty programs, cross-selling, upselling, and personalized recommendations to increase purchase frequency and customer lifetime value.*
+   *Use loyalty programs, cross-selling, upselling, and personalized recommendations to increase purchase frequency and customer lifetime value.*
 
 
 ## Dashboard
