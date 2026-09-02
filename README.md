@@ -1,4 +1,4 @@
-# E-Commerce Customer Retention & RFM Analysis
+# E-Commerce Customer Retention & Cohort Analysis
 
 ## Objective
 
